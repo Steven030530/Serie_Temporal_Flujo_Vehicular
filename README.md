@@ -1,4 +1,4 @@
-EL PROYECTO No 3 SERIES TEMPORALES
+**EL PROYECTO No 3 SERIES TEMPORALES MODELOS MACHINE LEARNING**
 
 
 El Objetivo principal de este notebook es el analisis del FLujo Vehicular de la Estacion Illia en la ciudad de Buenos Aires con forma de pago en Efectivo,
@@ -14,3 +14,9 @@ Es importante tener en cuenta que para el año 2020 existe una condicion muy ati
 si deseas obtener mas datos del flujo vehicular de Argentina de otros años puedes ingresar al siguiente link : https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa
 
 
+**PROYECTO No 4 SERIES TEMPORALES MODELOS CLASICOS Y LIBRERIA PROPHET**
+
+
+En este notebook decidimos trabajar los mismos datos del proyecto No 3 pero esta vez trabajamos con modelos clasicos estadisticos para la aplicacion de series temporales, alli transformaremos la serie en una serie estacionaria que permita implementar modelos tales como modelos autorregresivos, modelos medias moviles, modelos SARIMAX, ademas tambien trabajamos con la libreria Prophet creada por facebook.
+
+El objetivo es identificar si mejora la prediccion con la implementacion de estos modelos.
